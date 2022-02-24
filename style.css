@@ -1,0 +1,22 @@
+.container {
+    max-width: 600px;
+}
+.btn {
+    background: #43b9de;
+    color: white;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.btn:focus {
+    outline: none !important;
+}
+.username {
+    font-weight: bold;
+}
+.time {
+    font-size: 0.7em;
+}
+.update-msg {
+    text-align: center;
+    margin: 20px auto;
+}
